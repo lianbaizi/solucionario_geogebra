@@ -1,0 +1,46 @@
+
+.ejer1{
+    height: 700px;
+    padding: auto;
+    width: 100%;
+    background-color: rgb(233, 177, 177);
+    position: relative; 
+    background-position-x: 25px;   
+    
+
+}
+.dominio img{
+    height: 600px;
+    width: 400px;
+    margin-right: 30px;
+
+    
+}
+
+.dominio{
+    display: flex;
+    position: relative;
+    
+}
+.ejer2{
+    background-color: rgb(186, 217, 138)
+    ;
+}
+.forma_canonica img{
+    height:600px;
+    width: 500px;
+    padding-right: 10%;
+}
+h3{
+    text-align: center;
+}
+
+.ejer4{
+    background-color: rgb(176, 122, 226);
+}
+.tiempo iframe{
+    height: 600px;
+    width: 900px;
+    margin-right: 30px;
+    
+}
