@@ -1,4 +1,8 @@
 
+h2{
+    height: 66px;
+    background-color: rgb(230, 178, 116);
+}
 .ejer1{
     height: 700px;
     padding: auto;
@@ -43,4 +47,20 @@ h3{
     width: 900px;
     margin-right: 30px;
     
+}
+.ejer img{
+    background-position: center;
+}
+footer{
+    height: 66px;
+    background-color: rgb(126, 33, 33);
+    text-align: center;
+    color: aliceblue;
+    
+}
+footer p{
+    bottom: 33px;
+}
+body{
+    margin: 0 15%;
 }
