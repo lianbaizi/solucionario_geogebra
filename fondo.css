@@ -4,7 +4,7 @@ h2{
     background-color: rgb(230, 178, 116);
 }
 .ejer1{
-    height: 700px;
+    height:800px;
     padding: auto;
     width: 100%;
     background-color: rgb(233, 177, 177);
@@ -63,4 +63,5 @@ footer p{
 }
 body{
     margin: 0 15%;
+    background-color: rgb(167, 224, 205);
 }
